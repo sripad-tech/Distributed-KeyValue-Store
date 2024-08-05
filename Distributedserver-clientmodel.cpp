@@ -1,3 +1,5 @@
+//AUTHOR: SRIPAD
+
 // Simplified distributed key-value store (client-server model)
 #include <iostream>
 #include <unordered_map>
